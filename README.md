@@ -1,2 +1,2 @@
-# hello-world
+My name is Mage and I am new to coding and computers in general. I feel fasicanted by the endless options of creation and problem solving through coding. I am 26 with intrests in flow arts and video games like RPGS. I am nuerodivergent but I like to say neurospicy. Also I just have a deep passion for creating in general, I've been a dancer my whole life and now i'm learning to create in a differnt way. I want to make meaningful projects and resources for other people to use and help create more community.   # hello-world
 This repository is for practicing the GitHub Flow.
